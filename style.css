@@ -1,0 +1,148 @@
+
+#intro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: url("https://th.bing.com/th/id/R.769f959b6407babca58ae5bf215238d1?rik=m0sGpuPKciJXdA&pid=ImgRaw&r=0");
+    background-size: cover;
+    border-radius: 60px;
+    text-shadow: 5px 5px 5px rgb(1, 40, 66);
+    position: relative;
+}
+
+.textw{
+    font-family: monospace;
+    font-size: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+h1.textw{
+    font-family: monospace;
+    font-size: 70px;
+    padding-top: 50px;
+    color: aliceblue;
+}
+
+p.textw{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#foto{
+float: center;
+width: 12%;
+border-radius: 50%;
+border-style: ridge;
+border-color: rgb(1, 40, 66);
+border-width: 20px;
+}
+
+#menu{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    text-shadow: 2px 2px 5px rgb(141, 141, 141);
+}
+
+#menu a{
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    font-family: monospace;
+    letter-spacing: 10px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#cuerpo{
+    font-family: monospace;
+    color: white;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    background-image: url("https://th.bing.com/th/id/R.769f959b6407babca58ae5bf215238d1?rik=m0sGpuPKciJXdA&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-blend-mode: soft-light;
+    border-radius: 60px;
+    text-shadow: 5px 5px 5px rgb(1, 40, 66);
+    position: relative;
+}
+
+
+table{
+    border-spacing: 50px;
+}
+
+h2{
+    font-family: monospace;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px 5px rgb(1, 40, 66);
+    text-decoration: underline;
+}
+
+th{
+    font-family: monospace;
+    font-size: 22px;
+    color: white;
+    text-shadow: 2px 2px 5px rgb(1, 40, 66);
+    text-decoration: underline;
+}
+
+td {
+    font-family: monospace;
+    font-size: 20px;
+    color: white;
+    text-shadow: 2px 2px 5px rgb(1, 40, 66);
+}
+
+hr.cuerpo{
+    width: 90%;
+}
+
+#habs {
+    font-family: monospace;
+    font-size: 20px;
+    color: white;
+    text-shadow: 2px 2px 5px rgb(1, 40, 66);
+    letter-spacing: 5px;
+}
+
+div#habs ul strong {
+    letter-spacing: 0px; 
+}
+
+strong{
+    text-decoration: underline; 
+}
+
+.redes{
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    font-family: monospace;
+    letter-spacing: 10px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+h2#perfiles + p{
+    font-size: 25px;
+}
+
+
+html{
+    size-adjust: auto;
+}
+
